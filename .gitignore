@@ -11,3 +11,4 @@ echo "id_rsa*" >> ~/mycode/.gitignore
 /nextjs-lab/node_modules
 /nextjs-webpack/node_modules
 /react-router-demo/node_modules
+/next-redux-app/node_modules
