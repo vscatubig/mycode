@@ -15,4 +15,8 @@ echo "id_rsa*" >> ~/mycode/.gitignore
 /next-api-app/node_modules
 /nextjs-serverless/node_modules
 /next-api-integrations/node_modules
-
+/caching-nextjs/node_modules
+/graphql-server/node_modules
+/graphql-ssr-nextjs/node_modules
+/nextauthjs-secure/node_modules
+/nextjs-error-handling/node_modules
