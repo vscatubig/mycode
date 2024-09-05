@@ -1,0 +1,13 @@
+echo "*.log" >> ~/mycode/.gitignore
+echo "*.key" >> ~/mycode/.gitignore
+echo "id_rsa*" >> ~/mycode/.gitignore
+
+/advance-react/node_modules
+/next-advanced-ssr-ssg/node_modules
+/next-data-fetching-demo/node_modules
+/next-image-optimization/node_modules
+/next-routing-demo/node_modules
+/next-state-management/node_modules
+/nextjs-lab/node_modules
+/nextjs-webpack/node_modules
+/react-router-demo/node_modules
