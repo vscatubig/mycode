@@ -23,3 +23,4 @@ echo "id_rsa*" >> ~/mycode/.gitignore
 /realtime-nextjs/node_modules
 /next-hot-swap-lab/node_modules
 /next-app-router-lab/node_modules
+/nextjs-testing/node_modules
