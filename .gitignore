@@ -21,3 +21,4 @@ echo "id_rsa*" >> ~/mycode/.gitignore
 /nextauthjs-secure/node_modules
 /nextjs-error-handling/node_modules
 /realtime-nextjs/node_modules
+/next-hot-swap-lab/node_modules
