@@ -27,3 +27,6 @@ echo "id_rsa*" >> ~/mycode/.gitignore
 /main-app/node_modules
 /zone1/node_modules
 /zone2/node_modules
+/turbo-monorepo/my-turborepo/apps/another-next-app/node_modules
+/turbo-monorepo/my-turborepo/apps/my-next-app/node_modules
+/turbo-monorepo/my-turborepo/packages/my-shared-components/node_modules
