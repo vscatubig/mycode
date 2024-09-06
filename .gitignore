@@ -30,3 +30,6 @@ echo "id_rsa*" >> ~/mycode/.gitignore
 /turbo-monorepo/my-turborepo/apps/another-next-app/node_modules
 /turbo-monorepo/my-turborepo/apps/my-next-app/node_modules
 /turbo-monorepo/my-turborepo/packages/my-shared-components/node_modules
+/nextjs-libraries-app/node_modules
+/seo-analytics-app/node_modules
+
