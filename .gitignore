@@ -20,3 +20,4 @@ echo "id_rsa*" >> ~/mycode/.gitignore
 /graphql-ssr-nextjs/node_modules
 /nextauthjs-secure/node_modules
 /nextjs-error-handling/node_modules
+/realtime-nextjs/node_modules
